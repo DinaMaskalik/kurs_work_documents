@@ -1,0 +1,14 @@
+it\academy\user\UserRoleUtil.class
+it\academy\controller\EditDocumentController.class
+it\academy\utils\WebDocumentConfiguration.class
+it\academy\controller\AdminController.class
+it\academy\security\WebSecurityConfig.class
+it\academy\controller\FilterDocumentController.class
+it\academy\controller\DeleteDocumentController.class
+it\academy\controller\SearchDocumentController.class
+it\academy\utils\WebDocumentInitializer.class
+it\academy\controller\HomeDocumentController.class
+it\academy\controller\UserController.class
+it\academy\controller\RegistrationController.class
+it\academy\controller\AddDocumentController.class
+it\academy\security\MvcConfig.class

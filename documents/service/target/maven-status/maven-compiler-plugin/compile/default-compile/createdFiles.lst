@@ -1,0 +1,16 @@
+it\academy\service\SecurityServiceImpl.class
+it\academy\service\UserDetailsServiceImpl.class
+it\academy\dto\DocumentSaveDto.class
+it\academy\service\FilterService.class
+it\academy\service\DocumentSaveService.class
+it\academy\service\SearchService.class
+it\academy\sort\SortValueFromDocumentEntity.class
+it\academy\dto\DocumentEditDto.class
+it\academy\dto\FilterDto.class
+it\academy\service\DocumentEditService.class
+it\academy\dto\transform\TransformDocumentSaveDtoInDocumentEntity.class
+it\academy\service\SecurityService.class
+it\academy\service\DocumentService.class
+it\academy\service\util\ConvertListForJavaScript.class
+it\academy\service\DocumentDeleteService.class
+it\academy\dto\transform\TransformDocumentEditDtoInDocumentEntity.class

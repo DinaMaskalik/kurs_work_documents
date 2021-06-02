@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<databaseChangeLog
+        xmlns="http://www.liquibase.org/xml/ns/dbchangelog"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://www.liquibase.org/xml/ns/dbchangelog http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-3.8.xsd">
+
+    <changeSet id="1" author="maskalik">
+        <sql>
+            CREATE SCHEMA IF NOT EXISTS `documents` DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_0900_ai_ci
+        </sql>
+    </changeSet>
+    <changeSet id="2" author="maskalik">
+        <sql>
+            CREATE TABLE IF NOT EXISTS `documents`.`t_content` (
+            `C_CONTENT_ID` VARCHAR(255) NOT NULL,
+            `C_CONTENT` VARCHAR(255) NULL DEFAULT NULL,
+            PRIMARY KEY (`C_CONTENT_ID`))
+            ENGINE = InnoDB
+            DEFAULT CHARACTER SET = utf8mb4
+            COLLATE = utf8mb4_0900_ai_ci;
+
+            CREATE TABLE IF NOT EXISTS `documents`.`t_document_name` (
+            `DN_DOCUMENT_NAME_ID` VARCHAR(255) NOT NULL,
+            `DN_DOCUMENT_NAME` VARCHAR(255) NULL DEFAULT NULL,
+            PRIMARY KEY (`DN_DOCUMENT_NAME_ID`))
+            ENGINE = InnoDB
+            DEFAULT CHARACTER SET = utf8mb4
+            COLLATE = utf8mb4_0900_ai_ci;
+
+            CREATE TABLE IF NOT EXISTS `documents`.`t_document` (
+            `D_DOCUMENT_ID` VARCHAR(255) NOT NULL,
+            `D_AUTHOR` VARCHAR(255) NULL DEFAULT NULL,
+            `D_CREATE_DATE` DATE NULL DEFAULT NULL,
+            `D_PERIOD_OF_EXECUTION` BIGINT NULL DEFAULT NULL,
+            `D_PERSON_WHO_CONCLUDED_CONTRACT` VARCHAR(255) NULL DEFAULT NULL,
+            `D_PERSON_WITH_WHOM_THE_CONTRACT_WAS_SIGNED` VARCHAR(255) NULL DEFAULT NULL,
+            `D_CONTENT` VARCHAR(255) NULL DEFAULT NULL,
+            `D_DOCUMENT_NAME` VARCHAR(255) NULL DEFAULT NULL,
+            PRIMARY KEY (`D_DOCUMENT_ID`),
+            INDEX `FKmccyk7f3jt9co5polhwa8b9e8` (`D_CONTENT` ASC) VISIBLE,
+            INDEX `FKt700hubws7q73vophpd2v4hdy` (`D_DOCUMENT_NAME` ASC) VISIBLE,
+            CONSTRAINT `FKmccyk7f3jt9co5polhwa8b9e8`
+            FOREIGN KEY (`D_CONTENT`)
+            REFERENCES `documents`.`t_content` (`C_CONTENT_ID`),
+            CONSTRAINT `FKt700hubws7q73vophpd2v4hdy`
+            FOREIGN KEY (`D_DOCUMENT_NAME`)
+            REFERENCES `documents`.`t_document_name` (`DN_DOCUMENT_NAME_ID`))
+            ENGINE = InnoDB
+            DEFAULT CHARACTER SET = utf8mb4
+            COLLATE = utf8mb4_0900_ai_ci;
+        </sql>
+    </changeSet>
+    <changeSet id="3" author="maskalik">
+        <sql>
+<!--            INSERT INTO `documents`.`t_content` (`C_CONTENT_ID`, `C_CONTENT`) VALUES ('1', 'ytuhg');-->
+<!--            INSERT INTO `documents`.`t_document_name` (`DN_DOCUMENT_NAME_ID`, `DN_DOCUMENT_NAME`) VALUES ('1', 'dfv');-->
+<!--            INSERT INTO `documents`.`t_document` (`D_DOCUMENT_ID`, `D_AUTHOR`, `D_CREATE_DATE`, `D_PERIOD_OF_EXECUTION`, `D_PERSON_WHO_CONCLUDED_CONTRACT`, `D_PERSON_WITH_WHOM_THE_CONTRACT_WAS_SIGNED`, `D_CONTENT`, `D_DOCUMENT_NAME`) VALUES ('3', 'we', '2021-11-12', 65, 'we', 'we', '1', '1');-->
+
+        </sql>
+    </changeSet>
+
+<!--    <changeSet id="4" author="maskalik">-->
+<!--        <sql>-->
+<!--            -->
+<!--        </sql>-->
+<!--    </changeSet>-->
+
+</databaseChangeLog>

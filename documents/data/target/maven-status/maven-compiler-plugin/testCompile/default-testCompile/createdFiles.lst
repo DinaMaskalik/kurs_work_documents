@@ -1,0 +1,5 @@
+it\academy\dao\interfaces\MySqlDataSource.class
+it\academy\dao\interfaces\DocumentDaoTest.class
+it\academy\dao\interfaces\BaseTest.class
+it\academy\dao\interfaces\JpaTestConfig.class
+it\academy\dao\interfaces\DocumentFilterDaoTest.class

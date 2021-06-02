@@ -1,0 +1,5 @@
+it\academy\entity\BaseTest.class
+it\academy\entity\MySqlDataSource.class
+it\academy\entity\ContentTest.class
+it\academy\entity\DocumentTest.class
+it\academy\entity\DocumentNameTest.class

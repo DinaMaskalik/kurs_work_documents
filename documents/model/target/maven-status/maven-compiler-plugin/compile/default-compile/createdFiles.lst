@@ -1,0 +1,9 @@
+it\academy\entity\DocumentName.class
+it\academy\entity\PersonWithWhomTheContractWasSigned.class
+it\academy\entity\Content.class
+it\academy\entity\PersonWhoConcludedContract.class
+it\academy\entity\Role.class
+it\academy\entity\PeriodOfExecution.class
+it\academy\entity\User.class
+it\academy\entity\Author.class
+it\academy\entity\Document.class

@@ -1,0 +1,507 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9ecb538a-dd01-4d46-9bab-4d094c9f17b2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit4 Test Class" />
+        <option value="Jsp File" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/web/src/main/webapp/WEB-INF/jsp/add-document.jsp" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" root2="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\Java\.m2\repository" />
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA 2020.2.3\plugins\maven\lib\maven3" />
+        <option name="userSettingsFile" value="D:\Java\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProjectId" id="1onxekAa14vfu2rTXRBCGbWuEM2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/web/src/main/resources/tamplates" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="it.academy.controller" />
+      <recent name="it.academy.service" />
+      <recent name="it.academy.dao.interfaces" />
+      <recent name="it.academy.entity" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\jd2_project\documents\data\src\test\resources\it\academy\dao\interface" />
+      <recent name="D:\jd2_project\documents\web\src\main\webapp\WEB-INF\jsp\image" />
+      <recent name="D:\jd2_project\documents\web\src\main\webapp\WEB-INF\jsp" />
+      <recent name="D:\jd2_project\documents\web\src\main\webapp\WEB-INF" />
+      <recent name="D:\jd2_project\documents\web\src\main\webapp\WEB-INF\image" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="it.academy.security" />
+      <recent name="it.academy" />
+      <recent name="it.academy.service" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\documents\web\src\main\resources\tamplates" />
+      <recent name="D:\documents\model\src\main\java\it\academy\entity" />
+      <recent name="D:\documents\web\src\main\resources" />
+      <recent name="D:\documents\api\src\main\resources" />
+      <recent name="D:\documents\web\src\main\webapp\WEB-INF" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="it.academy" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="it.academy.service" />
+      <recent name="it.academy.dao.interfaces.impl" />
+      <recent name="it.academy.dao.strategy" />
+      <recent name="it.academy.dao.daoImpl" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Remote.8080">
+    <configuration name="DocumentDaoTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="data" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="it.academy.dao.interfaces.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="it.academy.dao.interfaces" />
+      <option name="MAIN_CLASS_NAME" value="it.academy.dao.interfaces.DocumentDaoTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DocumentDaoTest.searchDocument" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="data" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="it.academy.dao.interfaces.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="it.academy.dao.interfaces" />
+      <option name="MAIN_CLASS_NAME" value="it.academy.dao.interfaces.DocumentDaoTest" />
+      <option name="METHOD_NAME" value="searchDocument" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DocumentDeleteServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="it.academy.service.UserDetailsServiceImpl" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="it.academy.service" />
+      <option name="MAIN_CLASS_NAME" value="it.academy.service.DocumentDeleteServiceTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="8080" type="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <option name="AUTO_RESTART" value="false" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="5005" />
+        <option name="LOCAL" value="false" />
+      </RunnerSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="StartApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="doc" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="it.academy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="it.academy.StartApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StartApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="api" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="it.academy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="it.academy.StartApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.StartApplication (1)" />
+        <item itemvalue="Spring Boot.StartApplication" />
+        <item itemvalue="JUnit.DocumentDeleteServiceTest" />
+        <item itemvalue="JUnit.DocumentDaoTest.searchDocument" />
+        <item itemvalue="JUnit.DocumentDaoTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9ecb538a-dd01-4d46-9bab-4d094c9f17b2" name="Default Changelist" comment="" />
+      <created>1613936255715</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1613936255715</updated>
+      <workItem from="1613936256850" duration="1559000" />
+      <workItem from="1614768978245" duration="16089000" />
+      <workItem from="1614871838010" duration="815000" />
+      <workItem from="1614872667858" duration="8578000" />
+      <workItem from="1614947070903" duration="9035000" />
+      <workItem from="1615318157726" duration="19020000" />
+      <workItem from="1615455787844" duration="42972000" />
+      <workItem from="1615670952425" duration="3992000" />
+      <workItem from="1615715602307" duration="83405000" />
+      <workItem from="1615959708640" duration="21581000" />
+      <workItem from="1615983294563" duration="38387000" />
+      <workItem from="1616417619011" duration="2602000" />
+      <workItem from="1617360546970" duration="17911000" />
+      <workItem from="1618388078850" duration="3491000" />
+      <workItem from="1618664394296" duration="5846000" />
+      <workItem from="1618745752143" duration="1622000" />
+      <workItem from="1618821099085" duration="837000" />
+      <workItem from="1620421046871" duration="50366000" />
+      <workItem from="1620784248370" duration="9639000" />
+      <workItem from="1622032036904" duration="116000" />
+      <workItem from="1622067714846" duration="1614000" />
+      <workItem from="1622387232095" duration="1202000" />
+      <workItem from="1622644160149" duration="24000" />
+    </task>
+    <task id="LOCAL-00001" summary="Add all modules and all pom.xml">
+      <created>1613937430997</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1613937430997</updated>
+    </task>
+    <task id="LOCAL-00002" summary="add Spring Data config and repository">
+      <created>1615668122177</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1615668122177</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Add entity in module">
+      <created>1615668311784</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1615668311784</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Add start page, HomeController, DocumentService and tune Hibernate">
+      <created>1615668896322</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1615668896322</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Add edited document with using DTO">
+      <created>1615669060450</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1615669060450</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Add save document with using DTO">
+      <created>1615669092290</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1615669092290</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Add view one document">
+      <created>1615673958478</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1615673958478</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Add sorting and delete document">
+      <created>1615763423250</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1615763423250</updated>
+    </task>
+    <task id="LOCAL-00009" summary="updated sorting document and delete document">
+      <created>1615797212806</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1615797212806</updated>
+    </task>
+    <task id="LOCAL-00010" summary="added search and filter">
+      <created>1615986532151</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1615986532151</updated>
+    </task>
+    <task id="LOCAL-00011" summary="added unit test">
+      <created>1615986606942</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1615986606942</updated>
+    </task>
+    <task id="LOCAL-00012" summary="update project">
+      <created>1616265941917</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1616265941917</updated>
+    </task>
+    <task id="LOCAL-00013" summary="update project">
+      <created>1622032112464</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1622032112464</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add all modules and all pom.xml" />
+    <MESSAGE value="add Spring Data config and repository" />
+    <MESSAGE value="Add entity in module" />
+    <MESSAGE value="Add start page, HomeController, DocumentService and tune Hibernate" />
+    <MESSAGE value="Add edited document with using DTO" />
+    <MESSAGE value="Add save document with using DTO" />
+    <MESSAGE value="Add view one document" />
+    <MESSAGE value="Add sorting and delete document" />
+    <MESSAGE value="updated sorting document and delete document" />
+    <MESSAGE value="added search and filter" />
+    <MESSAGE value="added unit test" />
+    <MESSAGE value="update project" />
+    <option name="LAST_COMMIT_MESSAGE" value="update project" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="249" y="0" key="#Project_Structure" timestamp="1615670813409">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="249" y="0" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1615670813409" />
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1614948603856">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1614948603856" />
+    <state x="574" y="118" key="#com.intellij.ide.util.MemberChooser" timestamp="1620756102880">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="118" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1620756102880" />
+    <state x="447" y="336" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1614782134777">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="447" y="336" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1536.824@0.0.1536.824" timestamp="1614782134777" />
+    <state x="551" y="281" width="433" height="268" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1620754342863">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="551" y="281" width="433" height="268" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.824@0.0.1536.824" timestamp="1620754342863" />
+    <state x="364" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1620754228029">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="364" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.824@0.0.1536.824" timestamp="1620754228029" />
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1620743630672">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1620743630672" />
+    <state x="393" y="0" key="CommitChangelistDialog2" timestamp="1622032111426">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="393" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1622032111426" />
+    <state x="548" y="167" key="FileChooserDialogImpl" timestamp="1613937560674">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="548" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1613937560674" />
+    <state width="1493" height="119" key="GridCell.Tab.0.bottom" timestamp="1620784964770">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="119" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1620784964770" />
+    <state width="1493" height="119" key="GridCell.Tab.0.center" timestamp="1620784964770">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="119" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1620784964770" />
+    <state width="1493" height="119" key="GridCell.Tab.0.left" timestamp="1620784964770">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="119" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1620784964770" />
+    <state width="1493" height="119" key="GridCell.Tab.0.right" timestamp="1620784964770">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="119" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1620784964770" />
+    <state width="1493" height="286" key="GridCell.Tab.1.bottom" timestamp="1620784940766">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="286" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1620784940766" />
+    <state width="1493" height="286" key="GridCell.Tab.1.center" timestamp="1620784940766">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="286" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1620784940766" />
+    <state width="1493" height="286" key="GridCell.Tab.1.left" timestamp="1620784940766">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="286" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1620784940766" />
+    <state width="1493" height="286" key="GridCell.Tab.1.right" timestamp="1620784940766">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="286" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1620784940766" />
+    <state x="299" y="67" key="Maven.ArtifactSearchDialog" timestamp="1615671831238">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="299" y="67" key="Maven.ArtifactSearchDialog/0.0.1536.824@0.0.1536.824" timestamp="1615671831238" />
+    <state x="277" y="0" key="SettingsEditor" timestamp="1616005795214">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1616005795214" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1622032128829">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1622032128829" />
+    <state x="540" y="150" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1615996592364">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="540" y="150" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1536.824@0.0.1536.824" timestamp="1615996592364" />
+    <state x="576" y="-1" width="581" height="801" key="find.popup" timestamp="1615984271866">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="576" y="-1" width="581" height="801" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1615984271866" />
+    <state x="209" y="73" key="new project wizard" timestamp="1616505837189">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="209" y="73" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1616505837189" />
+    <state x="545" y="160" key="refactoring.ChangeSignatureDialog" timestamp="1615932730521">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="545" y="160" key="refactoring.ChangeSignatureDialog/0.0.1536.824@0.0.1536.824" timestamp="1615932730521" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1620741798745">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1620741798745" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1622032060039">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1622032060039" />
+    <state x="445" y="95" key="spring file set editor" timestamp="1614872156062">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="445" y="95" key="spring file set editor/0.0.1536.824@0.0.1536.824" timestamp="1614872156062" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/data/src/test/java/it/academy/dao/interfaces/DocumentDaoTest.java</url>
+          <line>50</line>
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/web/src/main/java/it/academy/controller/RegistrationController.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/service/src/main/java/it/academy/service/UserDetailsServiceImpl.java</url>
+          <line>69</line>
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/service/src/main/java/it/academy/service/UserDetailsServiceImpl.java</url>
+          <line>75</line>
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

@@ -1,0 +1,5 @@
+it\academy\dao\interfaces\DocumentFilterDao.class
+it\academy\dao\interfaces\RoleDao.class
+it\academy\dao\configuration\JpaConfig.class
+it\academy\dao\interfaces\DocumentDao.class
+it\academy\dao\interfaces\UserDao.class

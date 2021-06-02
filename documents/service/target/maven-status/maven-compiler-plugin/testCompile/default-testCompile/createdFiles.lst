@@ -1,0 +1,3 @@
+it\academy\service\AppConfig.class
+it\academy\service\JpaTestConfig.class
+it\academy\service\DocumentDeleteServiceTest.class
